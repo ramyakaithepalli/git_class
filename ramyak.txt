@@ -1,0 +1,5 @@
+we are learning about git 
+
+git tag
+git stash
+git reset
